@@ -7,3 +7,14 @@
 You can find the instructions for this lab [here](https://cyrusvandrevala.com/teaching/csc/122/labs/oops-shall-we-try-again.html).
 
 You should create new files in this repository with your solution.
+
+very simple functions utilizing istream
+
+
+use main.cpp to run actual program 
+
+first section to test stream processor 
+
+folowing sections to test the function pertaiing to the lab 
+
+stream.hpp for store classes and objects, class range_cond and get() for funciton used in lab
